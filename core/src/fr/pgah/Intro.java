@@ -87,7 +87,7 @@ public class Intro extends ApplicationAdapter {
       montent = 0;
     }
   }
-
+//debile chaud comme t'es con
   public void reinitialiserBackground() {
     ScreenUtils.clear(1, 0, 0, 1);
   }
